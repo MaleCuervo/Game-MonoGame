@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Profile>Reach</Profile>
+  <Platform>Windows</Platform>
+  <Config />
+  <SourceFiles>
+    <File>C:/Users/Maleja/Desktop/Final-Programacion-Aplicada/Game6/Content/Ships/Player.png</File>
+    <File>C:/Users/Maleja/Desktop/Final-Programacion-Aplicada/Game6/Content/Bullet.png</File>
+    <File>C:/Users/Maleja/Desktop/Final-Programacion-Aplicada/Game6/Content/Button.png</File>
+    <File>C:/Users/Maleja/Desktop/Final-Programacion-Aplicada/Game6/Content/Font.spritefont</File>
+    <File>C:/Users/Maleja/Desktop/Final-Programacion-Aplicada/Game6/Content/Explosion.png</File>
+    <File>C:/Users/Maleja/Desktop/Final-Programacion-Aplicada/Game6/Content/Background/Game.png</File>
+    <File>C:/Users/Maleja/Desktop/Final-Programacion-Aplicada/Game6/Content/Ships/Enemy_1.png</File>
+    <File>C:/Users/Maleja/Desktop/Final-Programacion-Aplicada/Game6/Content/Ships/Enemy_2.png</File>
+    <File>C:/Users/Maleja/Desktop/Final-Programacion-Aplicada/Game6/Content/Background/MainMenu.png</File>
+    <File>C:/Users/Maleja/Desktop/Final-Programacion-Aplicada/Game6/Content/Background/MenuFinal.png</File>
+    <File>C:/Users/Maleja/Desktop/Final-Programacion-Aplicada/Game6/Content/Ships/Enemy_3.png</File>
+  </SourceFiles>
+</SourceFileCollection>

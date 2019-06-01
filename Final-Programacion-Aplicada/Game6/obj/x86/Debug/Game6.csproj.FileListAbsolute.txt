@@ -1,0 +1,36 @@
+c:\users\maleja\documents\visual studio 2015\Projects\Game6\Game6\obj\x86\Debug\Game6.csprojResolveAssemblyReference.cache
+c:\users\maleja\documents\visual studio 2015\Projects\Game6\Game6\bin\Windows\x86\Debug\Content\Bullet.xnb
+c:\users\maleja\documents\visual studio 2015\Projects\Game6\Game6\bin\Windows\x86\Debug\Content\Button.xnb
+c:\users\maleja\documents\visual studio 2015\Projects\Game6\Game6\bin\Windows\x86\Debug\Content\Explosion.xnb
+c:\users\maleja\documents\visual studio 2015\Projects\Game6\Game6\bin\Windows\x86\Debug\Content\Font.xnb
+c:\users\maleja\documents\visual studio 2015\Projects\Game6\Game6\bin\Windows\x86\Debug\Content\Background\Game.xnb
+c:\users\maleja\documents\visual studio 2015\Projects\Game6\Game6\bin\Windows\x86\Debug\Content\Background\MainMenu.xnb
+c:\users\maleja\documents\visual studio 2015\Projects\Game6\Game6\bin\Windows\x86\Debug\Content\Ships\Enemy_1.xnb
+c:\users\maleja\documents\visual studio 2015\Projects\Game6\Game6\bin\Windows\x86\Debug\Content\Ships\Enemy_2.xnb
+c:\users\maleja\documents\visual studio 2015\Projects\Game6\Game6\bin\Windows\x86\Debug\Content\Ships\Player.xnb
+c:\users\maleja\documents\visual studio 2015\Projects\Game6\Game6\bin\Windows\x86\Debug\Game6.exe
+c:\users\maleja\documents\visual studio 2015\Projects\Game6\Game6\bin\Windows\x86\Debug\Game6.pdb
+c:\users\maleja\documents\visual studio 2015\Projects\Game6\Game6\bin\Windows\x86\Debug\MonoGame.Framework.dll
+c:\users\maleja\documents\visual studio 2015\Projects\Game6\Game6\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+c:\users\maleja\documents\visual studio 2015\Projects\Game6\Game6\bin\Windows\x86\Debug\SharpDX.dll
+c:\users\maleja\documents\visual studio 2015\Projects\Game6\Game6\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+c:\users\maleja\documents\visual studio 2015\Projects\Game6\Game6\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+c:\users\maleja\documents\visual studio 2015\Projects\Game6\Game6\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+c:\users\maleja\documents\visual studio 2015\Projects\Game6\Game6\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+c:\users\maleja\documents\visual studio 2015\Projects\Game6\Game6\bin\Windows\x86\Debug\SharpDX.XInput.dll
+c:\users\maleja\documents\visual studio 2015\Projects\Game6\Game6\bin\Windows\x86\Debug\SharpDX.Direct3D9.dll
+c:\users\maleja\documents\visual studio 2015\Projects\Game6\Game6\bin\Windows\x86\Debug\MonoGame.Framework.xml
+c:\users\maleja\documents\visual studio 2015\Projects\Game6\Game6\bin\Windows\x86\Debug\SharpDX.MediaFoundation.xml
+c:\users\maleja\documents\visual studio 2015\Projects\Game6\Game6\bin\Windows\x86\Debug\SharpDX.xml
+c:\users\maleja\documents\visual studio 2015\Projects\Game6\Game6\bin\Windows\x86\Debug\SharpDX.XAudio2.xml
+c:\users\maleja\documents\visual studio 2015\Projects\Game6\Game6\bin\Windows\x86\Debug\SharpDX.DXGI.xml
+c:\users\maleja\documents\visual studio 2015\Projects\Game6\Game6\bin\Windows\x86\Debug\SharpDX.Direct3D11.xml
+c:\users\maleja\documents\visual studio 2015\Projects\Game6\Game6\bin\Windows\x86\Debug\SharpDX.Direct2D1.xml
+c:\users\maleja\documents\visual studio 2015\Projects\Game6\Game6\bin\Windows\x86\Debug\SharpDX.XInput.xml
+c:\users\maleja\documents\visual studio 2015\Projects\Game6\Game6\bin\Windows\x86\Debug\SharpDX.Direct3D9.xml
+c:\users\maleja\documents\visual studio 2015\Projects\Game6\Game6\obj\x86\Debug\Game6.exe
+c:\users\maleja\documents\visual studio 2015\Projects\Game6\Game6\obj\x86\Debug\Game6.pdb
+C:\Users\Maleja\documents\visual studio 2015\Projects\Game6\Game6\bin\Windows\x86\Debug\Content\Background\MenuFinal.xnb
+C:\Users\Maleja\documents\visual studio 2015\Projects\Game6\Game6\bin\Windows\x86\Debug\Content\Ships\Enemy_3.xnb
+C:\Users\Maleja\Desktop\Final-Programacion-Aplicada\Game6\obj\x86\Debug\Game6.exe
+C:\Users\Maleja\Desktop\Final-Programacion-Aplicada\Game6\obj\x86\Debug\Game6.pdb
